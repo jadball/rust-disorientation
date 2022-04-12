@@ -1,4 +1,5 @@
 angle_between function in main.rs is subject to the following license:
+
 Copyright (c) 2013-2019 Henry Proudhon.
 
 Permission is hereby granted, free of charge, to any person obtaining
